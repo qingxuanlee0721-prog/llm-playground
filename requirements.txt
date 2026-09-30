@@ -1,0 +1,5 @@
+openai>=3.22
+anthropic>=1.11
+pydantic>=2
+streamlit>=1.64
+python-dotenv>=1.0
